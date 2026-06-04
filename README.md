@@ -1,11 +1,10 @@
 
- <div align="center">
-  <img src="https://raw.githubusercontent.com/Tasidrei/profile-about-me/main/PassFotoHB.jpg" 
+<div align="center">
+  <img src="https://github.com/Tasidrei/profile-about-me/blob/main/PassFotoHB_Resized.jpg?raw=true" 
        alt="Harry Bruns" width="180" style="border-radius: 50%;" />
   
   # 👋 Hi, I’m Harry  
   IT Support Specialist • Web Development Learner • Traveler • Cat Dad
-
 </div>
 
 ---
