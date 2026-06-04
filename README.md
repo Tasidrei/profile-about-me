@@ -1,8 +1,11 @@
-<div align="center">
-  <img src="YOUR_IMAGE_URL" alt="Harry Bruns" width="180" style="border-radius: 50%;" />
+
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/Tasidrei/profile-about-me/main/PassFotoHB.jpg" 
+       alt="Harry Bruns" width="180" style="border-radius: 50%;" />
   
   # 👋 Hi, I’m Harry  
   IT Support Specialist • Web Development Learner • Traveler • Cat Dad
+
 </div>
 
 ---
@@ -22,16 +25,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tasidrei&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasidrei&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
 
 ---
 
